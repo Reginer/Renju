@@ -840,3 +840,10 @@ override fun gameOver(winner: Int) {
 ```
 
 
+## License
+```text
+要抄随意，不必控制。
+
+Free copy at will.
+```
+
