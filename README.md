@@ -28,8 +28,7 @@ import java.util.List;
 
 
 /**
- * @author :Reginer in  2018/7/9 20:00.
- * 联系方式:QQ:282921012
+ * @author :LY in  2018/7/9 20:00
  * 功能描述:
  */
 
@@ -554,8 +553,7 @@ import kotlinx.coroutines.experimental.android.UI
 import kotlinx.coroutines.experimental.launch
 
 /**
- * @author :Reginer in  2018/7/9 20:07.
- * 联系方式:QQ:282921012
+ * @author :LY in  2018/7/9 20:07.
  * 功能描述:五子棋ai
  */
 class Ai(private val callBack: RenjuCallback) {
